@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ارسال پیام به ایمیل</string>
+    <string name="title_activity_main">تنظیمات ارسال پیام</string>
+
+    <string name="email_one_hint">ایمیل اول</string>
+    <string name="email_two_hint">ایمیل دوم</string>
+    <string name="email_password_hint">رمز عبور ایمیل</string>
+    <string name="save_button">ذخیره تنظیمات</string>
+    <string name="enable_forwarding">فعال کردن انتقال پیام</string>
+
+    <string name="sms_forwarded">پیام به ایمیل ارسال شد</string>
+    <string name="sms_error">خطا در ارسال پیام</string>
+    <string name="permission_denied">دسترسی به پیام ها مجاز نشد</string>
+    <string name="permission_request_message">برای ارسال پیام ها به ایمیل، نیاز به دسترسی به پیام ها است</string>
+
+    <string name="category_promotional">تبلیغی</string>
+    <string name="category_otp">کد تایید</string>
+    <string name="category_important">اطلاعات مهم</string>
+    <string name="category_deadline">ددلاین</string>
+    <string name="category_others">سایر</string>
+
+    <string name="message_history">تاریخچه پیام ها</string>
+    <string name="no_messages">پیامی موجود نیست</string>
+    <string name="from">از</string>
+    <string name="category">دسته بندی</string>
+    <string name="time">زمان</string>
+</resources>

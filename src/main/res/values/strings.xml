@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SMS to Email</string>
+    <string name="title_activity_main">SMS Forwarding Settings</string>
+
+    <string name="email_one_hint">First Email</string>
+    <string name="email_two_hint">Second Email</string>
+    <string name="email_password_hint">Email Password</string>
+    <string name="save_button">Save Settings</string>
+    <string name="enable_forwarding">Enable Message Forwarding</string>
+
+    <string name="sms_forwarded">Message sent to email</string>
+    <string name="sms_error">Error sending message</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="permission_request_message">Permission to read SMS messages is required</string>
+
+    <string name="category_promotional">Promotional</string>
+    <string name="category_otp">OTP</string>
+    <string name="category_important">Important</string>
+    <string name="category_deadline">Deadline</string>
+    <string name="category_others">Others</string>
+
+    <string name="message_history">Message History</string>
+    <string name="no_messages">No messages</string>
+    <string name="from">From</string>
+    <string name="category">Category</string>
+    <string name="time">Time</string>
+</resources>
